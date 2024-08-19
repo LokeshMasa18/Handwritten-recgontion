@@ -1,13 +1,6 @@
-# ML Project - Handwriting to Digital Text Conversion (H2DTC)
+# ML Project
 
-## Overview
-This repository contains the code and documentation for the Handwriting to Digital Text Conversion (H2DTC) project, developed as part of CS550, Project Phase 1 at IIT Bhilai.
-The projct code can found in the `ML Final.ipynb` file and the HMM model can be found under `hmm_model.ipynb` file. Report can be found under `ML_Project Report.pdf`.
 
-### Team Members
-- JV Aditya (12140840)
-- C Nikhil (12140530)
-- B Sri Bhargav Ram (12140460)
 
 ## Project Description
 ### 1. Data Pre-processing
@@ -32,8 +25,4 @@ of approximately 93%. We conducted extensive experiments, exploring various mode
 Convolutional Neural Networks (CNN)-7 models used,Resnet -3 models used Support Vector Machines (SVM), K-Means
 clustering, and Hidden Markov Models (HMMs) for character recognition.We have successfully implemented an ensemble approach using the three models that yielded the highest accuracy. This ensemble leverages the predictive power of the top-performing models to enhance the overall performance, resulting in a more robust and accurate system
 
-### 3. Individual Contributions
-- **J V Aditya:** Pre-processing and Image Enhancement,SVM Model,Grapheme Segmentation,Ensembling.
-- **Chiruvolu Nikhil:** Feature Extraction,7 different CNN models,Hidden Markov Models.
-- **Bollapragada Sri Bhargav:** 3 different ResNet Models,. C-RNN Networks,K-Means Clustering
 
